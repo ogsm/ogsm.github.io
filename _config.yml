@@ -1,3 +1,6 @@
 name: Abdulwaheed Ogunsami, my company
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+permalink: /homeschooling/:year/:month/:day/:title
+permalink: /nigeria/:year/:month/:day/:title
+permalink: /my research/:year/:month/:day/:title
