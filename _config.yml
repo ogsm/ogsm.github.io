@@ -1,2 +1,3 @@
 name: Abdulwaheed Ogunsami, my company
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
