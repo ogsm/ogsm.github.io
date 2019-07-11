@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: hpost
 title: "how we started"
 date: 2014-04-30
 ---
