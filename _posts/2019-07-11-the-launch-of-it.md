@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abdulwaheed Ogunsami, Launches Site"
+title: "Abdulwaheed Ògúnsàmì, Launches Site"
 date: 2014-04-30
 ---
 
